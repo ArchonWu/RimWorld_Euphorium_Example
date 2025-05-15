@@ -1,5 +1,7 @@
 # RimWorld_Euphorium_Example
 
+A mod helping me understand the basics of modding in RimWorld.
+
 This mod should be placed in path: C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Euphorium
 
 # Reference:
