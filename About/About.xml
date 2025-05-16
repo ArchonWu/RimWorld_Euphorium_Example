@@ -3,7 +3,7 @@
 <ModMetaData>
     <name>Euphorium</name>
     <author>krystea</author>
-    <description> This mod adds Euphorium to the game, a potent drug that will boost your pawn's stats at the risk of Ambrosia addiction.</description>
+    <description>This mod adds Euphorium to the game, a potent drug that will boost your pawn's stats at the risk of Ambrosia addiction.</description>
     <supportedVersions>
         <li>1.5</li>
         <li>1.4</li>
@@ -11,5 +11,5 @@
         <li>1.2</li>
         <li>1.1</li>
     </supportedVersions>
-    <packageID>krystea.euphorium</packageID>
+    <packageId>krystea.euphorium</packageId>
 </ModMetaData>

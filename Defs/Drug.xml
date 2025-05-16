@@ -3,7 +3,7 @@
     <ThingDef ParentName="MakeableDrugBase">
         <defName>Euphorium</defName>
         <label>Euphorium</label>
-        <description> A potent drug that will boost your pawn's stats at the risk of Ambrosia addiction.</description>
+        <description>A potent drug that will boost your pawn's stats at the risk of Ambrosia addiction.</description>
         <graphicData>
             <texPath>Things/Item/Drug/Euphorium</texPath>
             <graphicClass>Graphic_StackCount</graphicClass>
@@ -23,9 +23,9 @@
             <joyKind>Chemical</joyKind>
             <joy>0.30</joy>
             <drugCategory>Hard</drugCategory>
-            <baseaAIngestTicks>150</baseaAIngestTicks>
+            <baseIngestTicks>150</baseIngestTicks>
             <chairSearchRadius>4</chairSearchRadius>
-            <nuurseable>true</nurseable>
+            <nurseable>true</nurseable>
             <!--Put outcomedoers here later-->
         </ingestible>
         <comps>
