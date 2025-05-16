@@ -27,6 +27,9 @@
             <chairSearchRadius>4</chairSearchRadius>
             <nurseable>true</nurseable>
             <!--Put outcomedoers here later-->
+            <outcomedoers>
+            
+            </outcomedoers>
         </ingestible>
         <comps>
             <li Class="CompProperties_Drug">
